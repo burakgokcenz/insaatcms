@@ -14,7 +14,7 @@
         <table class="table table-bordered">
             <thead class="thead-dark">
                 <tr>
-                    <th>Proje ID</th>
+                    <th>Proje İd</th>
                     <th>Proje Adı</th>
                     <th>Proje Kategorisi</th>
                     <th>Resim Ekle</th>
