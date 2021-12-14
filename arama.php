@@ -15,7 +15,7 @@
     Contact Section
 ============================-->
 	<section id="blog" class="md-padding">
-		<div class="container">
+		<div class="container"> 
 			<div class="row">
 				<main id="main" class="col-md-8">
 					<div class="row">
